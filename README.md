@@ -1,4 +1,4 @@
-# My Simple Shell
+# my-simple-shell
 
 This project is a simple shell program implemented in C, designed to mimic basic shell functionalities using
 system calls such as fork, execvp, and waitpid. The shell reads user input, executes commands, and handles
